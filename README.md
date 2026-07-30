@@ -4,7 +4,7 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 
 **Autore:** Giuseppe-Diego Gianni
 **Prima pubblicazione pubblica di questo repository:** 30 luglio 2026
-**Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./scuola-dei-talenti/LICENSE.md)d)
+**Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./scuola-dei-talenti/LICENSE.md)
 
 ---
 
