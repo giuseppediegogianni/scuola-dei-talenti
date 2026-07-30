@@ -2,7 +2,7 @@
 ### Un modello educativo per l'era dell'intelligenza artificiale
 **Position paper — versione 1.0**
 
-*Autore: Diego*
+*Autore: Giuseppe-Diego Gianni*
 *Data di prima pubblicazione: 30 luglio 2026*
 *Licenza: Creative Commons CC BY 4.0 — è permessa la citazione, la ripresa e lo sviluppo di queste idee, a condizione di attribuirne la paternità all'autore originale.*
 
@@ -64,7 +64,7 @@ Questo documento è una sintesi preliminare, pubblicata come marcatore datato in
 
 ## Come citare questo documento
 
-> [Nome e cognome dell'autore], *"La Scuola dei Talenti — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, 30 luglio 2026.
+> Giuseppe-Diego Gianni, *"La Scuola dei Talenti — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, 30 luglio 2026.
 
 ---
 
