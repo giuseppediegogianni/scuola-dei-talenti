@@ -2,7 +2,7 @@
 
 Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva dei talenti, valutazione multi-dimensionale non gerarchica ("la ragnatela delle competenze"), certificazione su blockchain, validazione ibrida uomo-macchina.
 
-**Autore:** [Nome e cognome]
+**Autore:** Giuseppe-Diego Gianni
 **Prima pubblicazione pubblica di questo repository:** 30 luglio 2026
 **Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./LICENSE.md)
 
@@ -31,7 +31,7 @@ Per il dettaglio di ciascun punto e per la lista esplicita di cosa si basa su la
 
 ## Come citare questo lavoro
 
-> [Nome e cognome], *"La Scuola dei Talenti"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository]
+> Giuseppe-Diego Gianni, *"La Scuola dei Talenti"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository]
 
 ## Contatti
 
