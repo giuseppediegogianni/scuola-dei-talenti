@@ -12,8 +12,8 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 
 Questo repository raccoglie, in ordine cronologico di elaborazione, lo sviluppo pubblico e datato di un modello educativo originale. Contiene:
 
-- **[La-Scuola-dei-Talenti-Position-Paper.md](./La-Scuola-dei-Talenti-Position-Paper.md)** — il documento di sintesi: cosa propone il modello, quali elementi sono originali, quali si appoggiano a infrastrutture e standard preesistenti (esplicitamente citati).
-- **[note/](./note)** — l'insieme completo delle note di lavoro, una per concetto, con i collegamenti tra le idee così come si sono sviluppate.
+- **[La-Scuola-dei-Talenti-Position-Paper.md](../scuola-dei-talenti/La-Scuola-dei-Talenti-Position-Paper.md)** — il documento di sintesi: cosa propone il modello, quali elementi sono originali, quali si appoggiano a infrastrutture e standard preesistenti (esplicitamente citati).
+- **[note/](../scuola-dei-talenti/note)** — l'insieme completo delle note di lavoro, una per concetto, con i collegamenti tra le idee così come si sono sviluppate.
 
 ## Perché questo repository esiste
 
@@ -27,7 +27,7 @@ Ogni file caricato in questo repository riceve automaticamente da GitHub una dat
 4. **Decadenza e rinnovo delle competenze** — le competenze non sono permanenti; il registro storico resta immutabile, la vista attuale si aggiorna.
 5. **Blockchain educativa permissioned** — hash on-chain, dati fuori catena, tutela GDPR dei minori.
 
-Per il dettaglio di ciascun punto e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./La-Scuola-dei-Talenti-Position-Paper.md).
+Per il dettaglio di ciascun punto e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](../scuola-dei-talenti/La-Scuola-dei-Talenti-Position-Paper.md).
 
 ## Come citare questo lavoro
 
