@@ -1,0 +1,75 @@
+---
+tags: [libro, idea, meccanismo]
+---
+
+# Il mercato delle opportunità — progetto, soglia, coach globale
+
+Il meccanismo che rende viva la [[La ragnatela delle competenze|ragnatela]]: non un percorso scolastico astratto, ma una **domanda reale** che genera un bisogno di apprendimento specifico e motivato.
+
+## Come funziona
+1. Il ragazzo mostra interesse per un **progetto concreto** — es. un progetto di costruzione edile, una band musicale, una squadra sportiva, un laboratorio di ricerca, una cucina.
+2. Quel progetto richiede implicitamente una **soglia di competenza** in aree precise: per l'edilizia, un certo livello di matematica, fisica, chimica — espresso, quando possibile, nei termini di una tassonomia già standardizzata (ESCO, Global Skills Taxonomy) invece che come impressione soggettiva di chi offre il progetto.
+3. Il sistema confronta la soglia richiesta con la sotto-ragnatela del ragazzo e individua lo **scarto** (cosa manca, quanto manca).
+4. Il ragazzo apre materiale mirato — non un corso generico, ma esattamente ciò che serve per *quel* progetto: esercizi online, app, simulazioni.
+5. Il percorso è seguito da **coach ed esperti in materia**, raggiungibili in rete 24/7.
+
+## Perché "esperto" e non "professore"
+Distinzione voluta: non è qualcuno che valuta secondo un programma scolastico, è un **professionista che sa fare la cosa nel mondo reale** e la insegna facendola — un ingegnere, un musicista, un allenatore. Il ruolo è più vicino al tutor aziendale del sistema duale tedesco (vedi [[Scuole alternative/Technical school - VET duale]]) che al docente di materia.
+
+## Non manca chi insegna, manca motivazione ad entrare nel sistema attuale
+La carenza di insegnanti che si lamenta oggi non è una carenza di persone capaci: è una carenza di persone disposte a entrare in un sistema che non motiva né chi insegna né chi impara. Il sistema qui descritto allarga il bacino dei possibili coach: non serve più un titolo di insegnamento, basta che le competenze di un subject matter expert siano **misurabili e dimostrabili tramite test o colloqui online**, validate da altri esperti o da sistemi automatici. Il bacino passa da "chi ha una laurea in scienze della formazione" a "chiunque, ovunque nel mondo, sappia fare la cosa davvero e possa dimostrarlo."
+
+## Il coach globale e la traduzione IA in tempo reale
+Grazie all'IA, il mentore non deve essere nella stessa città o parlare la stessa lingua: un ragazzo italiano può avere come coach un ingegnere edile giapponese, con la comunicazione tradotta in tempo reale. Questo rende il "team multidisciplinare anti-bias" della [[Visione - La scuola dei talenti|visione]] potenzialmente globale, non limitato a chi lavora fisicamente in una scuola — e risponde in parte al problema della scala: non serve riqualificare da zero centinaia di migliaia di pedagogisti, basta connettere la rete di professionisti che già esiste nel mondo. Vedi anche [[La nave per un porto sommerso - IA e automazione]] per la doppia natura dell'IA (minaccia sul mercato del lavoro e attrezzo che rende tutto questo possibile).
+
+## Il meccanismo a doppio senso: non solo allenamento, anche formazione offerta
+Finora il verso era uno solo: il ragazzo si allena da solo per raggiungere una soglia. Ma nel mondo reale succede anche il contrario: **è l'opportunità stessa a colmare il divario**, offrendo formazione mirata invece di scartare chi non arriva già pronto — esattamente come fanno oggi le aziende con i corsi di formazione interna.
+
+Esempio reale (Diego): un lavoro richiedeva laurea e master in cyber defence per un ruolo di penetration tester; una volta assunto, l'azienda ha offerto corsi mirati su web app penetration test, network penetration test, ecc. Il titolo generico apre la porta, ma nessun titolo può coprire una competenza così specifica: serve sempre una formazione mirata dopo. Il sistema rende questo meccanismo — oggi lasciato al caso, alla buona volontà di un'azienda — **strutturale e disponibile fin dalla scuola**, non riservato a chi ha la fortuna di capitare in un posto che investe in formazione.
+
+### La carota: non solo il progetto in sé, ma cosa sblocca dopo
+A volte il motore non è il desiderio diretto per un progetto, ma cosa quel progetto **permette di raggiungere dopo**: "non mi interessa tantissimo questo progetto specifico, ma so che mi farà varcare una soglia più alta che mi serve per il progetto che voglio fare davvero." Il mercato delle opportunità diventa così una **rampa a gradini**, non una serie di porte isolate: ogni soglia raggiunta è il trampolino per la prossima, in una sequenza scelta dal ragazzo, non imposta dall'alto. Stesso principio del sistema duale tedesco, ma esplicito e visibile nella ragnatela invece che nascosto nella testa di chi assume.
+
+## Perché questo NON è la legge di Goodhart
+Il miglioramento richiesto per superare la soglia di un progetto **non è vanità da classifica** — non si allena per far sembrare più bella la ragnatela agli occhi di chiunque. Si allena perché si vuole *quella cosa specifica lì*: entrare in quel cantiere, in quella band, in quella squadra. È un miglioramento ancorato a un desiderio concreto e liberamente scelto, non a una valutazione astratta da ottimizzare. La differenza è la stessa che c'è tra allenarsi per un ruolo che si desidera e truccare un curriculum per sembrare impiegabile in generale.
+
+## Standardizzare la soglia-per-mondo, non il diploma unico
+Obiezione prevedibile: "così passiamo da una standardizzazione a un'altra." Risposta: il vecchio sistema standardizza **l'output** — un solo tipo di diploma, un solo percorso, uguale per tutti indipendentemente da dove si vuole andare. Questo sistema standardizza **l'ingresso** — non un'unica soglia per tutti, ma tante soglie diverse, una per ogni "mondo" professionale (il cantiere ha la sua, la cucina ha la sua, la band ha la sua). Non è la stessa standardizzazione travestita: è il passaggio da un imbuto unico a tanti imbuti specifici, ciascuno tarato su cosa serve davvero per entrare in quel mondo.
+
+**Chi fissa le soglie?** Non un ente unico dall'alto (altrimenti si torna al problema di prima, solo moltiplicato). Le soglie le fissano **i mondi stessi** — chi ha un cantiere sa cosa serve per lavorarci, chi ha una band sa cosa serve per suonarci — ma non restano un'affermazione vaga: si traducono in un linguaggio già standardizzato. Sia **ESCO** sia la **Global Skills Taxonomy** del WEF codificano già relazioni "essenziali/opzionali" tra competenze e occupazioni — cioè, per ogni mestiere, quali competenze sono indispensabili e quali solo utili. Il "mondo" che offre un'opportunità non deve inventare la propria soglia da zero: la esprime nei termini di queste relazioni già mappate. La domanda genera la soglia, non un ministero — ma la soglia si traduce in un vocabolario comune, non resta un'impressione soggettiva di chi assume. Vedi la mappa completa in [[Lo stack a quattro livelli - come si collega tutto]] (questo meccanismo opera al Livello 4, usando il vocabolario del Livello 1).
+
+⚠️ Nota di realismo: il Future of Jobs Report 2025 del WEF mostra che oggi solo il **19% dei datori di lavoro** considera "rimuovere i requisiti di laurea e assumere in base alle competenze" una pratica promettente — è tra le meno diffuse nella loro classifica. La direzione è quella giusta (attingere a bacini di talento diversi è passato dal 10% al 47% in un solo ciclo di rilevazione), ma la soglia-per-mondo resta oggi il fronte da conquistare, non una pratica già mainstream. Nota positiva a margine: nella lista dei ruoli in più rapida crescita 2025-2030 dello stesso report compaiono gli "Sviluppatori Blockchain" — la competenza tecnica su cui si regge parte del sistema è anche, di per sé, un mestiere in forte espansione.
+
+### La prova che il problema è reale: la degree inflation
+Quanti lavori oggi richiedono laurea, poi master, poi dottorato, per poi ridursi a scartoffie in ufficio o vendita telefonica di prodotti inutili? Non è un'impressione: il fenomeno si chiama **"degree inflation"** ed è misurato. Il 19% delle segretarie esecutive ha una laurea, ma il 65% degli annunci per quel ruolo la richiede; per gli addetti al credito, 26% contro 66%. Il 52% dei neolaureati lavora in un impiego dove la laurea non serve davvero per farlo. Il fenomeno ha anche una forma "a scala": alcuni lavori che richiedevano un master oggi richiedono un dottorato (ricercatori junior, lettorati universitari a contratto) — esattamente la sequenza laurea→master→PhD di cui si parla nel libro. Il sistema del diploma unico non garantisce competenza specifica: garantisce solo un filtro sempre più caro e sempre più lungo.
+
+## L'ingresso precoce nel mondo del lavoro: lo stage, esteso e reso continuo
+Questo sistema permette ai ragazzi di entrare presto nel mondo del lavoro reale — non come invenzione dal nulla, ma come **estensione strutturata di un meccanismo che già esiste**: lo stage, reso continuo lungo tutto il percorso invece che un'esperienza isolata a fine studi.
+
+### La "fresh mind" è valore economico reale, non carità
+Le aziende non prendono stagisti per bontà. Un team che lavora insieme a lungo diventa più efficiente ma sempre più intrappolato nel proprio modo di pensare; un flusso di menti nuove aumenta la capacità di attingere a idee e approcci diversi — le soluzioni innovative vengono spesso dal margine, da chi pensa con una prospettiva diversa. Aneddoto da usare nel libro: i **Doritos Locos Tacos di Taco Bell**, uno dei lanci di prodotto più redditizi nella storia dell'azienda, sarebbero nati dal suggerimento di uno stagista alla fine degli anni '90. La mente fresca può valere miliardi, non solo "esperienza formativa" per il ragazzo.
+
+### Perché questo chiude il cerchio sui 13 anni
+Se il contatto con il mondo del lavoro reale non è un evento unico a fine percorso — quando il curriculum è stato deciso anni prima e nel frattempo il mestiere potrebbe essere cambiato — ma un filo continuo dall'adolescenza in poi, il ragazzo si ricalibra in tempo reale insieme al mercato, invece di scoprire di essersi preparato per un lavoro sparito nel frattempo. Vedi [[La nave per un porto sommerso - IA e automazione]]: è lo stesso argomento della nave che cambia rotta durante il viaggio, applicato all'esperienza diretta e non solo alla tecnologia.
+
+### ⚠️ Nota di cautela: età calibrata e tutele legali
+Entrare "presto" nel mondo del lavoro deve restare calibrato sull'età e protetto legalmente — lo stesso principio di rischio calibrato delle forest school (vedi [[Scuole alternative/Forest school]]), applicato al lavoro invece che alla natura. Non è "un tredicenne in fabbrica": è un'esposizione crescente e sempre supervisionata, coerente con le tutele sul lavoro minorile già esistenti. Va detto esplicitamente nel libro, prima che qualcuno lo dica al posto nostro in tono accusatorio.
+
+## Merito immediato vs compenso tutelato — due cose distinte
+Punto importante da non confondere: **il riconoscimento del merito non ha bisogno di aspettare la maggiore età.** Se un tredicenne risolve un problema avanzato o propone una soluzione innovativa, la [[La ragnatela delle competenze|ragnatela]] lo registra nel momento esatto in cui succede — non evapora aspettando i 18 anni. Qui non serve nessuna tutela speciale: è puro riconoscimento, nessun soldo cambia mano, nessuna legge sul lavoro minorile è coinvolta. È semplicemente più onesto del sistema attuale, dove il diploma arriva a un'età fissa indipendentemente da quando il talento si è davvero manifestato.
+
+**Le tutele servono quando il riconoscimento diventa compenso** — e qui esiste già un precedente collaudato da quasi un secolo: la **Coogan Law**. Nata nel 1939 in California dal caso di Jackie Coogan, la prima grande star bambina del cinema americano (scoperto da Charlie Chaplin per "Il monello" nel 1919), che a 21 anni scoprì che la madre e il patrigno avevano speso quasi tutti i milioni guadagnati durante l'infanzia. La legge obbliga il datore di lavoro a versare almeno il 15% dei guadagni di un minore in un conto fiduciario (Coogan account) che resta legalmente ed esclusivamente proprietà del minore, e regola anche scolarizzazione, orari di lavoro e riposo. Leggi simili esistono oggi in California, New York, Illinois, Kansas, Louisiana, Nevada, New Mexico, North Carolina, Pennsylvania e Tennessee, e si applicano non solo agli attori ma anche a modelli, cantanti, scrittori e atleti minorenni (il caso di Britney Spears al Mickey Mouse Club Disney da bambina è di questo tipo).
+
+**Il limite da conoscere:** i "kidfluencer" — i bambini che guadagnano tramite i social media — in molti stati non sono coperti dal Coogan Act: la legge è nata per il cinema classico e non ha ancora raggiunto del tutto le forme più nuove di lavoro minorile digitale. Promemoria utile: il sistema qui proposto, generando forme di merito e forse di compenso completamente nuove (un blocco in blockchain, una soglia superata in un progetto reale), dovrà probabilmente scriversi le proprie regole invece di limitarsi a importare quelle vecchie — ma può partire da un impianto con già ottant'anni di giurisprudenza alle spalle, invece che da zero.
+
+## Precedenti reali su cui appoggiarsi
+- **Education 4.0 Taxonomy** (WEF + Fondazione LEGO): pensata specificamente per bambini, definisce le macro-aree di abilità, atteggiamenti e valori — candidato naturale per definire cosa conta come "soglia" fin dalle fasce d'età più basse, non solo per i mestieri tecnici degli adolescenti.
+- **Global Skills Taxonomy** (WEF): tassonomia interattiva a più livelli con relazioni essenziali/opzionali tra competenze e occupazioni — il meccanismo esatto con cui un "mondo" professionale può esprimere la propria soglia in modo standardizzato.
+- **ESCO**: la tassonomia europea di quasi 14.000 competenze, con relazioni "essenziali/opzionali" verso le occupazioni — già pensata per far incontrare candidati e opportunità sulla base delle competenze. Vedi [[La ragnatela delle competenze]].
+- **Sistema duale tedesco**: competenze richieste dal mestiere reale, non dal programma scolastico astratto — ma lì il percorso è deciso a monte (15 anni, scelta già fatta); qui è il progetto scelto liberamente a generare la domanda di apprendimento, ed è cambiabile nel tempo.
+- **Piattaforme di scuola online**: l'infrastruttura tecnica (moduli adattivi, tracciamento, feedback immediato) è già quella richiesta per erogare il materiale mirato — vedi [[Scuole alternative/Online school]].
+- **Coogan Law**: quasi un secolo di giurisprudenza sulla protezione del compenso ai minori, applicabile con adattamenti al compenso generato dentro il sistema.
+
+Per la mappa completa di come questi precedenti si incastrano tra loro, vedi [[Lo stack a quattro livelli - come si collega tutto]].
+
+Collegamenti: [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]] · [[Visione - La scuola dei talenti]] · [[Cosa serve per scalare a livello nazionale]] · [[La nave per un porto sommerso - IA e automazione]] · [[Lo stack a quattro livelli - come si collega tutto]]
