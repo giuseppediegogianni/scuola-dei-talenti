@@ -16,4 +16,4 @@ Riassunto in linguaggio comune: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-Copyright © 2026 [Nome e cognome dell'autore]. Questo avviso di copyright, unito alla cronologia dei commit di questo repository (pubblicamente verificabile, con data e impronta crittografica), costituisce prova della paternità e della data di prima pubblicazione dei contenuti qui presenti.
+Copyright © 2026 Giuseppe-Diego Gianni. Questo avviso di copyright, unito alla cronologia dei commit di questo repository (pubblicamente verificabile, con data e impronta crittografica), costituisce prova della paternità e della data di prima pubblicazione dei contenuti qui presenti.
