@@ -46,7 +46,7 @@ La documentazione è volutamente narrativa e qualitativa: trasformarla in dati s
 ### 🟡 Gap
 Si ferma a 6 anni. Tutta quella ricchezza osservativa non segue il bambino alle elementari: è il gap più doloroso e più vicino a casa.
 
-### 💡 Cosa posso rubare
+### 💡 Cosa posso prendere
 L'intero impianto: atelierista + pedagogista + documentazione + ambiente come terzo insegnante. È il modello già funzionante, ma solo per sei anni e senza memoria trasferibile. La proposta può essere raccontata come "Reggio Emilia esteso a tutta la vita scolastica".
 
 ## Punteggio di allineamento sulle 12 dimensioni
