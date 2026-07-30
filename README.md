@@ -31,7 +31,7 @@ Per il dettaglio di ciascun punto e per la lista esplicita di cosa si basa su la
 
 ## Come citare questo lavoro
 
-> Giuseppe-Diego Gianni, *"La Scuola dei Talenti"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository]
+> Giuseppe-Diego Gianni, *"La Scuola dei Talenti"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository](https://github.com/giuseppediegogianni/scuola-dei-talenti)
 
 ## Contatti
 
